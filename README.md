@@ -48,7 +48,7 @@ Henrique Oliveira Gobi
 ## ▶️ Como executar
 1. Clone este repositório  
    ```bash
-   git clone https://github.com/seuusuario/automacao-relatorio-compras.git
+   git clone https://github.com/seuusuario/automacao-relatorios-python.git
 Instale as dependências necessárias
 
 pip install pandas pyautogui pyperclip
