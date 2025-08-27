@@ -41,9 +41,8 @@ Total gasto: R$ 7.254.196,58
 Quantidade de produtos: 9.715
 Preço médio: R$ 746,70
 
-Qualquer dúvida, estou à disposição.
-Att,
-Henrique Oliveira Gobi
+Qualquer dúvida, só chamar.
+Att. Gobi
 
 ## ▶️ Como executar
 1. Clone este repositório  
